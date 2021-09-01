@@ -36,7 +36,7 @@
 
 ### **The fight mechanic of game is randomly choosing to who hit first.You can run away before the fight or  during the fight.**
 
-![](https://i.hizliresim.com/seeogdx.jpg
+![](https://i.hizliresim.com/seeogdx.jpg) 
 
 
 
